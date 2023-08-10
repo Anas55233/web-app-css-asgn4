@@ -1,10 +1,17 @@
+body {
+    background-image: url(bg-image.jpeg);
+    background-size: auto;
+}
+
 marquee {
-    font-size: xx-large;
+    font-size: 45px;
      font-weight: bold;
+     color: #d6e8d7;
 }
 
 
 .container {
+    background-color: rgba(224, 235, 237, 0.834);
     margin: 100px auto;
     border: 1px solid rgb(234, 209, 209);
     padding: 20px;
